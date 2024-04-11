@@ -50,7 +50,7 @@
     "react": "^18.0.0"
   },
   "dependencies": {
-    "@storybook/core-events": "^7.0.0"
+    "@storybook/core-events": "^8.0.7"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.18.1",
